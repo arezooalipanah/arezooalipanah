@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Arezoo
 
-I started working with my computer and probing into programming with a dial-up internet connection. Having learned computer, I noticed I was passionate about coding, which takes me away from the routine life. It’s been always challenging for me to deal with a system with millions of users. Consequently, I adore coding. I dived in the world of programming with Java. Apart from that, I started mastering Microservices Design patterns. Moreover, I’ve been learning as well as working in the programming since 2015.
+I started working with my computer and probing into programming with a dial-up internet connection:). Having learned computer, I noticed I was passionate about coding, which takes me away from the routine life. It’s been always challenging for me to deal with a system with millions of users. Consequently, I adore coding. I dived in the world of programming with Java. Apart from that, I started mastering Microservices Design patterns. Moreover, I’ve been learning as well as working in the programming since 2015.
 
 <!--
 **arezooalipanah/arezooalipanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
