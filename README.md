@@ -5,10 +5,15 @@ I started working with my computer and probing into programming with a dial-up i
 
 🌱 My main goals for this year are:
 😻 Deepening my knowledge of Java
+
 👩‍💻 Developing my own personal website
+
 👩‍🏫 Learning more about Linux
+
 🗣️ Learning a new language
+
 🎥 Seeing more videos and series
+
 🏃‍♀️Run morrre
 
 <!--
