@@ -2,9 +2,13 @@
 ## I'm Arezoo
 
 I graduated with a Bachelor's degree in Computer Science in 2013.
+
 As a Software developer, I enjoy tackling new challenges and expanding my skillset.
+
 I am professional in Javascript and Java.
+
 I have a passion for working with Java, Spring Boot and modern Javascript libraries and frameworks  like React.js
+
 
 <!--
 **arezooalipanah/arezooalipanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
